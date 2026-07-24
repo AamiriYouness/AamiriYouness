@@ -1,37 +1,154 @@
-# Hey, I'm Youness 👋
+# Hi, I'm Youness Aamiri 👋
 
-Senior .NET Engineer based in Casablanca, Morocco. I build financial engines for **insurance** and **fintech** — rating, reconciliation, claims, payments — in clean, production-grade .NET architecture.
+> Building software where correctness, performance, and engineering excellence come first.
 
-Currently building the **Cedar suite**: a collection of open-source domain engines you can deploy, fork, or hire me to adapt for your stack.
-
----
-
-## 🌲 Cedar suite
-
-| Engine | Domain | Status |
-|---|---|---|
-| [**CedarRisk**](https://github.com/AamiriYouness/cedarrisk) | Insurance rating — premium calc, RC/GC, pro-rata, tariff versioning | ✅ Live |
-| [**CedarRecon**](https://github.com/AamiriYouness/cedarrecon) | Reconciliation — normalize, match, exception management, break reporting | 🔨 In progress |
-| **CedarClaims** | Claims management — loss reserving, lifecycle, settlement workflow | 🔜 Next |
-| **CedarPayGate** | Payment gateway orchestrator — provider adapters, idempotency, webhooks | 📋 Planned |
-| **CedarTakaful** | Islamic insurance — Takaful contributions, surplus distribution | 📋 Planned |
-| **CedarWallet** | Digital wallet — multi-currency ledger, transfers | 📋 Planned |
-
-> All engines: Clean Architecture · DDD · CQRS · Result pattern · Minimal API · .NET 10
+🌐 **[Blog](https://blog.youness-aamiri.workers.dev/)** · ✍️ **[Articles](https://dev.to/younessaamiri)** · 💼 **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · 📧 **[Contact](mailto:youness.aamiri@pm.me)**
 
 ---
 
-## 🛠 Stack
+Software Engineer from 🇲🇦 Morocco.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+I enjoy designing software that is simple to reason about, reliable under pressure, and built to last.
 
-**Architecture:** Clean Architecture · DDD · CQRS · Microservices · Event-driven  
-**Certifications:** CKAD · CKA (in progress) · CKS (planned) · AWS SAA-CO3 (planned)  
-**Domains:** Insurance · Fintech · IFRS 9 · IFRS 17 (coming)
+Rather than chasing trends, I prefer solving difficult engineering problems with clean architecture, measurable performance, and thoughtful design.
+
+Today I'm building **OrthosLabs**, an engineering initiative focused on creating modern software for developers and businesses.
+
+---
+
+# Engineering Philosophy
+
+Software should be...
+
+⚡ Fast enough that performance isn't an afterthought.
+
+🧩 Simple enough to understand six months later.
+
+🛡 Reliable enough that businesses can trust it.
+
+📈 Designed to evolve instead of being rewritten.
+
+📖 Documented so knowledge outlives the code.
+
+---
+
+# What I'm Building
+
+## 🚀 BenchmarkGate
+
+Performance regression testing for .NET.
+
+BenchmarkGate helps teams detect performance regressions before they reach production by integrating benchmarking into CI/CD workflows.
+
+**Engineering Focus**
+
+- Performance Engineering
+- Continuous Benchmarking
+- CI/CD Integration
+- Developer Productivity
+
+---
+
+## 🔄 Recon
+
+A reconciliation engine for financial and operational systems.
+
+Recon compares, validates, and reconciles data across multiple sources while emphasizing correctness, traceability, and scalability.
+
+**Engineering Focus**
+
+- Financial Reconciliation
+- High-volume Data Processing
+- Auditability
+- Data Integrity
+
+---
+
+## 🛡 Rate
+
+An insurance rating and pricing engine.
+
+Rate provides configurable rating rules, premium calculations, and product configuration for modern insurance platforms.
+
+**Engineering Focus**
+
+- Insurance Technology
+- Rating Rules
+- Pricing Engines
+- Product Configuration
+
+---
+
+# Current Focus
+
+I'm currently exploring topics including:
+
+- Performance Engineering
+- Financial Systems
+- Insurance Technology
+- Distributed Architectures
+- Developer Tooling
+- Domain-Driven Design
+- Automation
+- Open Source
+
+---
+
+# Writing
+
+I enjoy writing about software engineering and sharing lessons learned while building products.
+
+Topics include:
+
+- Software Architecture
+- .NET
+- Performance
+- Clean Code
+- Benchmarking
+- Financial Software
+- Insurance Systems
+
+📖 **Read my articles**
+
+- Personal Blog → https://blog.youness-aamiri.workers.dev/
+- DEV Community → https://dev.to/younessaamiri
+
+---
+
+# Open Source
+
+I believe good software is built in the open.
+
+Whenever possible, I publish reusable libraries, developer tools, and experiments that others can learn from or build upon.
+
+---
+
+# Let's Connect
+
+💼 LinkedIn
+
+https://linkedin.com/in/youness-aamiri
+
+📰 Blog
+
+https://blog.youness-aamiri.workers.dev/
+
+✍️ DEV Community
+
+https://dev.to/younessaamiri
+
+If you're interested in software architecture, developer tooling, finance, insurance, or simply enjoy discussing engineering, feel free to reach out.
+
+---
+
+# OrthosLabs
+
+Building software with purpose.
+
+Developer Tools.
+
+Financial Systems.
+
+Insurance Technology.
+
+One engineering problem at a time.
