@@ -141,7 +141,7 @@ If you're interested in software architecture, developer tooling, finance, insur
 
 ---
 
-# OrthosLabs
+# Bijecta
 
 Building software with purpose.
 
