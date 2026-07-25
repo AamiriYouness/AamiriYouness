@@ -12,7 +12,7 @@ I enjoy designing software that is simple to reason about, reliable under pressu
 
 Rather than chasing trends, I prefer solving difficult engineering problems with clean architecture, measurable performance, and thoughtful design.
 
-Today I'm building **OrthosLabs**, an engineering initiative focused on creating modern software for developers and businesses.
+Today I'm building **Bijecta**, an engineering initiative focused on creating modern software for developers and businesses.
 
 ---
 
