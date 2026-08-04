@@ -2,7 +2,7 @@
 
 > Building software where correctness, performance, and engineering excellence come first.
 
-🌐 **[Blog](https://blog.youness-aamiri.workers.dev/)** · ✍️ **[Articles](https://dev.to/younessaamiri)** · 💼 **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · 📧 **[Contact](mailto:youness.aamiri@pm.me)**
+🌐 **[Blog](https://younessaamiri.dev/posts)** · ✍️ **[Articles](https://dev.to/younessaamiri)** · 💼 **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · 📧 **[Contact](mailto:youness.aamiri@pm.me)**
 
 ---
 
@@ -110,7 +110,7 @@ Topics include:
 
 📖 **Read my articles**
 
-- Personal Blog → https://blog.youness-aamiri.workers.dev/
+- Personal Blog → https://younessaamiri.dev/posts
 - DEV Community → https://dev.to/younessaamiri
 
 ---
@@ -131,7 +131,7 @@ https://linkedin.com/in/youness-aamiri
 
 📰 Blog
 
-https://blog.youness-aamiri.workers.dev/
+https://younessaamiri.dev/posts/
 
 ✍️ DEV Community
 
