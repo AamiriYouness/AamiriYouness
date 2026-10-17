@@ -2,57 +2,56 @@
 
 Software engineer from Morocco 🇲🇦. I build .NET systems where correctness and performance are requirements, not afterthoughts.
 
-**[Blog](https://younessaamiri.dev/posts)** · **[DEV](https://dev.to/younessaamiri)** · **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · **[Email](mailto:youness.aamiri@pm.me)**
+**[Projects](https://younessaamiri.dev/projects)** · **[Blog](https://younessaamiri.dev/posts)** · **[DEV](https://dev.to/younessaamiri)** · **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · **[Email](mailto:youness.aamiri@pm.me)**
 
 ---
 
 ## Bijecta
 
-`Bijecta` is the namespace my work lives under.
+`Bijecta` is the namespace for my developer tooling.
 
-```csharp
-Bijecta.BenchmarkGate   // performance regression gates for .NET CI/CD
-Bijecta.Recon           // reconciliation for financial and operational data
-Bijecta.Rate            // insurance rating and pricing
+```bash
+dotnet tool install --global Bijecta.BenchmarkGate.Tool
 ```
 
-A bijection is a perfect one-to-one correspondence: every element on one side matches exactly one on the other, with nothing left over. That is the standard I hold the code to: inputs map to outputs predictably, records match or are explained, and nothing is lost along the way.
+A bijection is a perfect one-to-one correspondence, with nothing left over. That is the standard I hold the code to: inputs map to outputs predictably, and nothing is lost along the way.
 
-### BenchmarkGate
+### [Bijecta.BenchmarkGate](https://github.com/Bijecta/BenchmarkGate)
 
-Performance regression testing for .NET. Runs benchmarks in CI/CD and fails the build when performance regresses, so slowdowns are caught before production.
+A local-first performance regression gate for BenchmarkDotNet. It compares benchmark results against baselines and policies committed to your repo as plain JSON, and fails the build when performance regresses. No SaaS and no hosted database, and it runs the same locally and in CI.
 
-*Performance engineering · continuous benchmarking · CI/CD*
+*Alpha (v0.4.0) · Apache-2.0 · .NET*
 
-### Recon
+---
 
-A reconciliation engine for financial and operational systems. Compares and validates data across sources, with every match and every break traceable.
+## More projects
 
-*High-volume processing · auditability · data integrity*
+Engines for regulated domains, where a wrong number is a real problem. Both are being renamed.
 
-### Rate
+### [CedarRecon](https://github.com/AamiriYouness/CedarRecon)
 
-An insurance rating and pricing engine. Configurable rating rules, premium calculation and product configuration.
+A financial reconciliation engine built like an analytical query engine: columnar execution, a cost-based planner, the ReconQL matching DSL, and an eight-phase classification cascade. Every performance number is reproducible from the committed benchmarks, including the optimizations that didn't work. Classification runs **2.1x faster** than the dictionary baseline (1,368 ms to 646 ms per million transactions).
 
-*Rating rules · pricing engines · product configuration*
+*Active development · .NET 10 · Apache-2.0*
+
+### [CedarRisk](https://github.com/AamiriYouness/CedarRisk)
+
+An auto insurance premium rating engine for the Moroccan market. It calculates the full premium (RC, optional guarantees, trailers, and the whole fiscal chain) with Clean Architecture, DDD, CQRS, and Result-pattern error handling instead of exceptions.
+
+*Active · .NET 10 · PostgreSQL*
 
 ---
 
 ## How I work
 
-- **Fast by design.** Performance is measured from the start, not patched in later.
+- **Measured.** Performance numbers come from benchmarks anyone can rerun.
 - **Simple to reason about.** If it takes a meeting to explain, it's too complicated.
 - **Trustworthy.** Finance and insurance don't forgive silent errors, so the code makes them loud.
 - **Built to evolve.** Clean boundaries over rewrites.
-- **Documented.** Knowledge should outlive the code.
-
-## Interests
-
-Performance engineering · financial systems · insurance technology · distributed architecture · domain-driven design · developer tooling · open source
 
 ## Writing
 
-I write about architecture, .NET, performance, benchmarking, and the realities of financial and insurance software.
+I write about architecture, .NET, performance, and the realities of financial and insurance software.
 
 - [younessaamiri.dev/posts](https://younessaamiri.dev/posts)
 - [dev.to/younessaamiri](https://dev.to/younessaamiri)
