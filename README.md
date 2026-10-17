@@ -1,154 +1,62 @@
-# Hi, I'm Youness Aamiri 👋
+# Youness Aamiri
 
-> Building software where correctness, performance, and engineering excellence come first.
+Software engineer from Morocco 🇲🇦. I build .NET systems where correctness and performance are requirements, not afterthoughts.
 
-🌐 **[Blog](https://younessaamiri.dev/posts)** · ✍️ **[Articles](https://dev.to/younessaamiri)** · 💼 **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · 📧 **[Contact](mailto:youness.aamiri@pm.me)**
-
----
-
-Software Engineer from 🇲🇦 Morocco.
-
-I enjoy designing software that is simple to reason about, reliable under pressure, and built to last.
-
-Rather than chasing trends, I prefer solving difficult engineering problems with clean architecture, measurable performance, and thoughtful design.
-
-Today I'm building **Bijecta**, an engineering initiative focused on creating modern software for developers and businesses.
+**[Blog](https://younessaamiri.dev/posts)** · **[DEV](https://dev.to/younessaamiri)** · **[LinkedIn](https://linkedin.com/in/youness-aamiri)** · **[Email](mailto:youness.aamiri@pm.me)**
 
 ---
 
-# Engineering Philosophy
+## Bijecta
 
-Software should be...
+`Bijecta` is the namespace my work lives under.
 
-⚡ Fast enough that performance isn't an afterthought.
+```csharp
+Bijecta.BenchmarkGate   // performance regression gates for .NET CI/CD
+Bijecta.Recon           // reconciliation for financial and operational data
+Bijecta.Rate            // insurance rating and pricing
+```
 
-🧩 Simple enough to understand six months later.
+A bijection is a perfect one-to-one correspondence: every element on one side matches exactly one on the other, with nothing left over. That is the standard I hold the code to: inputs map to outputs predictably, records match or are explained, and nothing is lost along the way.
 
-🛡 Reliable enough that businesses can trust it.
+### BenchmarkGate
 
-📈 Designed to evolve instead of being rewritten.
+Performance regression testing for .NET. Runs benchmarks in CI/CD and fails the build when performance regresses, so slowdowns are caught before production.
 
-📖 Documented so knowledge outlives the code.
+*Performance engineering · continuous benchmarking · CI/CD*
 
----
+### Recon
 
-# What I'm Building
+A reconciliation engine for financial and operational systems. Compares and validates data across sources, with every match and every break traceable.
 
-## 🚀 BenchmarkGate
+*High-volume processing · auditability · data integrity*
 
-Performance regression testing for .NET.
+### Rate
 
-BenchmarkGate helps teams detect performance regressions before they reach production by integrating benchmarking into CI/CD workflows.
+An insurance rating and pricing engine. Configurable rating rules, premium calculation and product configuration.
 
-**Engineering Focus**
-
-- Performance Engineering
-- Continuous Benchmarking
-- CI/CD Integration
-- Developer Productivity
-
----
-
-## 🔄 Recon
-
-A reconciliation engine for financial and operational systems.
-
-Recon compares, validates, and reconciles data across multiple sources while emphasizing correctness, traceability, and scalability.
-
-**Engineering Focus**
-
-- Financial Reconciliation
-- High-volume Data Processing
-- Auditability
-- Data Integrity
+*Rating rules · pricing engines · product configuration*
 
 ---
 
-## 🛡 Rate
+## How I work
 
-An insurance rating and pricing engine.
+- **Fast by design.** Performance is measured from the start, not patched in later.
+- **Simple to reason about.** If it takes a meeting to explain, it's too complicated.
+- **Trustworthy.** Finance and insurance don't forgive silent errors, so the code makes them loud.
+- **Built to evolve.** Clean boundaries over rewrites.
+- **Documented.** Knowledge should outlive the code.
 
-Rate provides configurable rating rules, premium calculations, and product configuration for modern insurance platforms.
+## Interests
 
-**Engineering Focus**
+Performance engineering · financial systems · insurance technology · distributed architecture · domain-driven design · developer tooling · open source
 
-- Insurance Technology
-- Rating Rules
-- Pricing Engines
-- Product Configuration
+## Writing
 
----
+I write about architecture, .NET, performance, benchmarking, and the realities of financial and insurance software.
 
-# Current Focus
-
-I'm currently exploring topics including:
-
-- Performance Engineering
-- Financial Systems
-- Insurance Technology
-- Distributed Architectures
-- Developer Tooling
-- Domain-Driven Design
-- Automation
-- Open Source
+- [younessaamiri.dev/posts](https://younessaamiri.dev/posts)
+- [dev.to/younessaamiri](https://dev.to/younessaamiri)
 
 ---
 
-# Writing
-
-I enjoy writing about software engineering and sharing lessons learned while building products.
-
-Topics include:
-
-- Software Architecture
-- .NET
-- Performance
-- Clean Code
-- Benchmarking
-- Financial Software
-- Insurance Systems
-
-📖 **Read my articles**
-
-- Personal Blog → https://younessaamiri.dev/posts
-- DEV Community → https://dev.to/younessaamiri
-
----
-
-# Open Source
-
-I believe good software is built in the open.
-
-Whenever possible, I publish reusable libraries, developer tools, and experiments that others can learn from or build upon.
-
----
-
-# Let's Connect
-
-💼 LinkedIn
-
-https://linkedin.com/in/youness-aamiri
-
-📰 Blog
-
-https://younessaamiri.dev/posts/
-
-✍️ DEV Community
-
-https://dev.to/younessaamiri
-
-If you're interested in software architecture, developer tooling, finance, insurance, or simply enjoy discussing engineering, feel free to reach out.
-
----
-
-# Bijecta
-
-Building software with purpose.
-
-Developer Tools.
-
-Financial Systems.
-
-Insurance Technology.
-
-One engineering problem at a time.
+If you work on developer tooling, finance, or insurance systems, or just like talking engineering, [get in touch](mailto:youness.aamiri@pm.me).
